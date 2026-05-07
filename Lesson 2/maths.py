@@ -1,16 +1,16 @@
 # Print the answers to the following questions. Get the computer to do the math for you!
 
 # What is 376 + 209 + 44439?
-
+print(376 + 209 + 44439)
 # What is 2345678 - 678 - 1?
-
+print(2345678 - 678 - 1)
 # What is 345 divided by 34?
-
+print(345 / 34)
 # What is 567 * 34 * 3?
-
+print(567 * 34 * 3)
 
 # Print 'hello' 32 times.
-
+print('Hello'* 32)
 # -------------------------
 
 # EXTENSION
