@@ -10,7 +10,7 @@ print(345 / 34)
 print(567 * 34 * 3)
 
 # Print 'hello' 32 times.
-print('Hello'* 32)
+print('gay'* 100)
 # -------------------------
 
 # EXTENSION
