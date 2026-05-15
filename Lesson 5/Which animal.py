@@ -4,7 +4,7 @@
 
 
 # Ask your user a question about themselves, giving them 2 options
-
+Animal = input ("are you like to be in a Beach or in a Mountain")
 # Check if they picked the first option
 
     # Ask the next question
