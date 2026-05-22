@@ -20,3 +20,22 @@ if input == " Moon Star Shoes by Antonio Vietri ":
    print("your answer is correct")
 else:
    print("Your answer is not correct for this question the answer is Moon Star Shoes by Antonio Vietri.")
+
+
+print("Question 03;")
+print("What is the name of our planet? ")
+input("your answer : ")
+if input == "Earth":
+   print("correct answer is Earth. ")
+else:
+   print("Your answer was wrong and the answer is Earth")
+
+
+
+
+
+
+
+
+
+
