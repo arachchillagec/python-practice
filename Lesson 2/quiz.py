@@ -6,7 +6,7 @@ input("if your ready press enter")
 print("Question 01;")
 print("What is the best car brand in the world. ")
 input("your answer : ")
-if input == "BMW":
+if input =="BMW":
    print("correct answer for the question is BMW. ")
 else:
    print("Your answer was wrong and the answer is BMW")
