@@ -6,8 +6,13 @@
 # TODO: Create a variable to store the correct country (e.g., "Italy").
 # TODO: Create a variable to keep track of the user's current guess. 
 #       (Hint: Start it as an empty string "" so the loop runs at least once!)
+country = "sri lanka"
+guess = input ("Guess the country")
 
-
+while not guess == country:
+    print (" Wrong answer")
+    guess = input (" try again ")
+print(" You won !")
 # LOOP
 # TODO: Start a 'while' loop. 
 #       The loop should keep running AS LONG AS the user's guess 
