@@ -16,6 +16,10 @@ wild_pokemon = [
 # User Pokemon
 # TODO Create a multidimensional list that holds 4 pokemon attacks and their different damage
 
+wild_pokemon = 
+
+
+
 # TODO Create a variable to hold a randomised wild pokemon
 # TODO Create a current_health variable and set it to the max health of the random pokemon
 # TODO Tell the user what pokemon they're facing
