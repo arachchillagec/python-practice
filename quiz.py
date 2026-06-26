@@ -14,10 +14,15 @@ input("if your ready press enter")
 
 # The First Question
 
+
+print("---------Use CAPITAL letter to the first letter---------")
+
+
+
 print("Question 01;")
 print("What is the best car brand in the world. ")
 guess = input("your answer : ")
-if guess =="Toyota":
+if guess =="toyota":
    print("correct answer ")
 else:
    print("wrong answer and the answer is Toyota")
@@ -27,7 +32,7 @@ else:
 print("Question 02")
 print("What is the most expensive shoe in the world?")
 guess = input("your answer : ")
-if guess == "Moon Star Shoe":
+if guess == "Moon Star shoe":
    print("your answer is correct")
 else:
    print("wrong answer the answer is Moon Star Shoes by Antonio Vietri (20 million)")
